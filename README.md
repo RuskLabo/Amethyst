@@ -7,3 +7,5 @@
 <h2 align="center">
   Amethyst - A tool that allows you to easily build a Minecraft server in an instant 
 </h2>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
